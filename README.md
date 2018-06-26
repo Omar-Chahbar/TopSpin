@@ -1,2 +1,2 @@
 # TopSpin
-A remake of the classic game Top Spin using a circular doubly liNked list in C++
+A remake of the classic game Top Spin using a circular doubly linked list in C++
